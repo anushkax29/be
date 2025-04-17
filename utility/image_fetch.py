@@ -7,7 +7,7 @@ import time
 
 app = Flask(__name__)
 
-CHROME_DRIVER_PATH = r"C:\Users\vis\OneDrive\Desktop\adaah\chromedriver.exe"
+CHROME_DRIVER_PATH = r"C:\Users\mishr\Desktop\addahfe\server\chromedriver\chromedriver.exe"
 
 def fetch_outfit_images(url, max_images=6):
     options = Options()
